@@ -14,7 +14,7 @@ SNIS is an academic web application for exploring and comparing London neighbour
 
 ## Technology
 
-- React 18, TypeScript, and Vite
+- React , TypeScript, and Vite
 - Tailwind CSS and Lucide icons
 - Leaflet with OpenStreetMap tiles
 - Supabase JavaScript client for optional survey storage
