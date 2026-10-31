@@ -1,6 +1,6 @@
 # Smart Neighbourhood Intelligence System (SNIS)
 
-SNIS is an academic web application for exploring and comparing London neighbourhoods. It brings together an interactive map, venue and socio-economic profiles, K-Means clustering, crime-based safety scores, and a community survey in one place.
+SNIS (Smart Neighbourhood Intelligence System) is an academic web application designed to explore and compare London neighbourhoods. It integrates interactive mapping, venue and socio-economic profiles, K-Means clustering, crime-based safety scores, and community survey insights to help users make informed decisions about neighbourhoods.
 
 > **Data note:** The current app uses a bundled example dataset for 12 London boroughs and 62 venues. Its venue, population, income, and crime values are sample project data, not a live feed or official, current safety guidance. Treat the rankings as a demonstration of the analysis workflow, not as a basis for real-world relocation or safety decisions. Map tiles are served by OpenStreetMap and require an internet connection.
 
